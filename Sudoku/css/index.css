@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+.one{
+
+}
+
+.big-box{
+    width: 100%;
+    padding-bottom: 100%;
+}
+
+.box-one{
+    width: 31%;
+    padding-bottom: 31%;     
+    background-color: orange;
+    border-radius: 4%;
+    float: left;
+    margin: 1%;
+}
